@@ -22,8 +22,8 @@
   },
   "license": "ISC",
   "engines": {
-    "node": ">= 4 <= 8",
-    "npm": ">= 3 <= 5"
+    "node": "6.3.1",
+    "npm": "3.10.3"
   },
   "scripts": {
     "prestart": "clap build",
